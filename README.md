@@ -1,4 +1,4 @@
-# diplomzayavue
+# Курсовик
 
 ## Project setup
 ```
